@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -7,8 +7,10 @@
     <title>Momentum - Stop Procrastinating, Start Doing</title>
     <meta name="description" content="Break free from procrastination, self-doubt, and decision paralysis. AI-powered system to help you make progress every day." />
   </head>
+
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
+
